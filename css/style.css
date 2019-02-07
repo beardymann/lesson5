@@ -1,7 +1,10 @@
 .container{
 	margin: 40px;
 }
-
+.container2{
+	margin: 40px;
+	padding-top: 300px;
+}
 .body{
 	background-color: #22B573;
 }
@@ -13,18 +16,13 @@
 }
 .navigation-a{
 	color: #ffffff;
-	padding: 35px;
-
+	padding: 30px;
 
 }
 .navigation-li{
 	display: inline-block;
 	font-size: 48px;
 	 font-family: 'Noto Sans';
-
-	
-    
-
 }
 .navigation{
 	display: inline-block;
@@ -32,4 +30,16 @@
 	margin-top: 10px;
 	margin-right: 30px;
 	float: right;
+}
+.active{
+	color: orange;
+}
+.text{
+	width: 480px;
+	color: #000000;
+}
+.photo{
+	float: right;
+	margin-right: 750px;
+	width: 200px;
 }
